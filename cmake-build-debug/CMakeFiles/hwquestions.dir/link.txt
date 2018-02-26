@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/hwquestions.dir/1-1.cpp.o CMakeFiles/hwquestions.dir/1-2.cpp.o CMakeFiles/hwquestions.dir/1-3.cpp.o CMakeFiles/hwquestions.dir/1-4.cpp.o  -o hwquestions 

@@ -3,4 +3,8 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(2-1.cpp 2-2.cpp 2-3.cpp 2-4.cpp 2-5.cpp 2-6.cpp)
+add_executable(2-1.cpp cmake-build-debug/3-1.h cmake-build-debug/3-1.cpp 3-1.cpp 3-2.cpp 3-3.cpp)
+
+add_executable(2-2.cpp)
+
+add_executable(3-1 3-1.cpp)

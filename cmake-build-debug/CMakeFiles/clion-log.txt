@@ -1,4 +1,7 @@
 /Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/jordanlujan/cpp
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/jordanlujan/cpp/cmake-build-debug
+CMake Error at CMakeLists.txt:8 (add_executable):
+  add_executable called with incorrect number of arguments
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/jordanlujan/cpp/cmake-build-debug/CMakeFiles/CMakeOutput.log".
